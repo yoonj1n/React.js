@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+Project_TOEIC/node_modules
+Project_TOEIC/.pnp
+Project_TOEIC/.pnp.js
+
+# testing
+Project_TOEIC/coverage
+
+# production
+Project_TOEIC/build
+
+# misc
+Project_TOEIC/.DS_Store
+Project_TOEIC/.env.local
+Project_TOEIC/.env.development.local
+Project_TOEIC/.env.test.local
+Project_TOEIC/.env.production.local
+
+Project_TOEIC/npm-debug.log*
+Project_TOEIC/yarn-debug.log*
+Project_TOEIC/yarn-error.log*
